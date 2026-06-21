@@ -25,4 +25,5 @@ Scikit-Learn
 - Durante o desenvolvimento do projeto também foi analisada a limitação da acurácia como métrica única de avaliação, especialmente em bases de dados com distribuição desigual entre classes.
 # Objetivo de aprendizado.
 Este projeto teve como foco o aprendizado dos conceitos fundamentais de Machine Learning e do fluxo de desenvolvimento de modelos preditivos utilizando a biblioteca Scikit-Learn.
-*Observação: Este projeto foi desenvolvido como parte de um estudo guiado durante um curso de Ciência de Dados, com o objetivo de praticar análise de dados, pré-processamento e classificação utilizando Scikit-Learn.*
+# Observação: 
+*Este projeto foi desenvolvido como parte de um estudo guiado durante um curso de Ciência de Dados, com o objetivo de praticar análise de dados, pré-processamento e classificação utilizando Scikit-Learn.*
