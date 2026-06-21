@@ -12,16 +12,16 @@ NumPy
 Matplotlib
 Scikit-Learn
 # Etapas realizadas
-Importação e análise dos dados
-Estatísticas descritivas
-Visualização de distribuições
-Separação entre dados de treino e teste
-Padronização dos dados com StandardScaler
-Treinamento do modelo K-Nearest Neighbors (KNN)
-Geração de previsões
-Avaliação por matriz de confusão e acurácia
+- Importação e análise dos dados
+- Estatísticas descritivas
+- Visualização de distribuições
+- Separação entre dados de treino e teste
+- Padronização dos dados com StandardScaler
+- Treinamento do modelo K-Nearest Neighbors (KNN)
+- Geração de previsões
+- Avaliação por matriz de confusão e acurácia
 # Resultados
 - O modelo obteve aproximadamente 76% de acurácia na base de testes.
 - Durante o desenvolvimento do projeto também foi analisada a limitação da acurácia como métrica única de avaliação, especialmente em bases de dados com distribuição desigual entre classes.
-Objetivo de aprendizado.
+# Objetivo de aprendizado.
 Este projeto teve como foco o aprendizado dos conceitos fundamentais de Machine Learning e do fluxo de desenvolvimento de modelos preditivos utilizando a biblioteca Scikit-Learn.
