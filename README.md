@@ -111,4 +111,4 @@ Este projeto teve como foco o aprendizado dos conceitos fundamentais de Machine 
 
 ## Observação
 
-*Este projeto foi desenvolvido como parte de um estudo guiado durante um curso de Ciência de Dados e Inteligência Artificial, com o objetivo de praticar análise de dados, pré-processamento, treinamento, ajuste e avaliação de modelos de classificação.*
+*Este projeto foi desenvolvido como parte de um estudo guiado durante um curso de Inteligência Artificial, com o objetivo de praticar análise de dados, pré-processamento, treinamento, ajuste e avaliação de modelos de classificação.*
