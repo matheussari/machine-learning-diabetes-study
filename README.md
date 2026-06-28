@@ -1,4 +1,4 @@
-# Machine Learning Diabetes Study
+# Diabetes Classification Models
 
 Estudo prático de Machine Learning Supervisionado desenvolvido durante um curso de Inteligência Artificial. O projeto compara diferentes algoritmos de classificação aplicados à predição de diabetes utilizando Python, Pandas, Matplotlib, Seaborn, Numpy, Scikit-Learn e XGBoost.
 
@@ -108,6 +108,13 @@ Cada modelo foi analisado considerando não apenas a **acurácia**, mas também 
 ## Objetivo de aprendizado
 
 Este projeto teve como foco o aprendizado dos conceitos fundamentais de Machine Learning e do fluxo completo de desenvolvimento de modelos preditivos utilizando bibliotecas como Scikit-Learn e XGBoost.
+
+## Limitações do projeto
+
+- Este projeto possui finalidade educacional.
+- Os resultados podem variar conforme a divisão entre treino e teste e os hiperparâmetros utilizados.
+- O modelo não deve ser utilizado para diagnóstico médico real.
+- Métricas como precision, recall e F1-score podem ser exploradas em versões futuras.
 
 ## Observação
 
